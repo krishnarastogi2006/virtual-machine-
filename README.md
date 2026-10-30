@@ -1,0 +1,1 @@
+A basic implementation of the Little Computer 3 (LC-3) Virtual Machine using the C programming language. This project simulates the working of a simple 16-bit computer by implementing its registers, memory, instruction decoding, and execution cycle.
